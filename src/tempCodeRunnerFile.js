@@ -1,0 +1,1 @@
+<Route path='/' exact Component={Home} /> 
