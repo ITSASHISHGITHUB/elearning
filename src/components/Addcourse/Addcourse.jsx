@@ -7,10 +7,6 @@ function Addcourse() {
              <button className='primary-btn'>Click here to add courses</button>
              
             </div>
-   
- 
-          
-        
     )
 
 }
